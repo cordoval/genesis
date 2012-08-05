@@ -1,0 +1,13 @@
+{
+    "name": "cordoval/genesis",
+    "require": {
+        "php":          ">=5.3.2",
+        "EHER/PHPUnit": ">=1.2"
+    },
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },
+    "config": {
+        "bin-dir": "bin"
+    }
+}
